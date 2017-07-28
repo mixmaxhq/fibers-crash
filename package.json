@@ -1,0 +1,27 @@
+{
+  "name": "fibers",
+  "version": "1.0.15",
+  "description": "A tiny stub for the fibers module, to help root out lingering fibers uses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mixmaxhq/fibers-crash.git"
+  },
+  "keywords": [
+    "fibers",
+    "warning",
+    "error",
+    "crash",
+    "uncaught",
+    "tracing"
+  ],
+  "author": "Eli Skeggs <eli@mixmax.com> (https://mixmax.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mixmaxhq/fibers-crash/issues"
+  },
+  "homepage": "https://github.com/mixmaxhq/fibers-crash#readme"
+}
